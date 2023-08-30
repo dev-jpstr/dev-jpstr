@@ -37,6 +37,6 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Discord](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=jp_strapa)](jp_strapa)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpstrapasson10@gmail.com)](mailto:jpstrapasson10@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/dev-jpstr)
+[![Discord](https://img.shields.io/badge/-jp_strapa-purple?style=flat-square&logo=Discord&logoColor=white&link=jp_strapa)](jp_strapa)
+[![Gmail Badge](https://img.shields.io/badge/-jpstrapasson10@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpstrapasson10@gmail.com)](mailto:jpstrapasson10@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/dev-jpstrlabel=follow&style=social)](https://github.com/dev-jpstr)
