@@ -1,5 +1,5 @@
 ## 💜 Olá, meu nome é <strong>João!</strong>
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=dev-jpstr&color=006bed)
 
 <h3>Sobre mim</h3>
 
