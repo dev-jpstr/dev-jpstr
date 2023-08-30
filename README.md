@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{João}!</strong>
+## 💜 Olá, meu nome é <strong>João!</strong>
 
 > .
 
@@ -22,3 +22,13 @@
 ## ⭐ Informações sobre minha conta GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-jpstr&show_icons=true)
+
+---
+
+## Rede sociais
+
+🏡 [Website][website] **jpstrapasson.me**
+🐦 [Twitter][twitter] **devjpstr**
+📺 [Youtube][youtube] **dev-jpstr**
+📷 [Instagram][instagram] **jp_strapasson**
+👔 [Discord][Discord] **jp_strapa**
